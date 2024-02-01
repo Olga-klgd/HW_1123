@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com:Olga-klgd/HW_1123/issues"
   },
-  "homepage": "https://github.com:Olga-klgd/HW_1123/#readme",  
+  "homepage": "https://github.com:Olga-klgd/HW_1123/#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
